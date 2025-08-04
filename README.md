@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python and C<br>
+🌱Python, C, C++<br>
 
 
 ## 🌐 Socials:
