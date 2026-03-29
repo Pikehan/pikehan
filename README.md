@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Pikehan</p>
+<p align="left">Hi I'm Pikehan. I love Monster Hunter</p>
 
 ###
 
